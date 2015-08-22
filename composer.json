@@ -1,7 +1,6 @@
 {
     "name": "duyhuynhngoc/json",
     "description": "[\"Json\", \"Json Reader\", \"PHP\"]",
-    "type": "git",
     "require": {
         "php": ">=4.0.0"
     },
