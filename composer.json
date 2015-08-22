@@ -1,5 +1,5 @@
 {
-    "name": "duyhuynhngoc/Json",
+    "name": "duyhuynhngoc/json",
     "description": "[\"Json\", \"Json Reader\", \"PHP\"]",
     "require": {
         "php": ">=4.0.0"
