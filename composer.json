@@ -3,9 +3,6 @@
     "description": "[\"Json\", \"Json Reader\", \"PHP\"]",
     "type": "git",
     "version": "1.0.0",
-    "require": {
-        "php": ">=4.0"
-    },
     "license": "MIT",
     "authors": [
         {
