@@ -5,6 +5,7 @@
         "php": ">=4.0.0"
     },
     "license": "MIT",
+    "minimum-stability": "dev",
     "authors": [
         {
             "name": "Duy Huynh",
