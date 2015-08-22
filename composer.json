@@ -2,7 +2,7 @@
     "name": "duyhuynhngoc/json",
     "description": "[\"Json\", \"Json Reader\", \"PHP\"]",
     "require": {
-        "php": ">=4.0.0"
+        "php": ">=4.0"
     },
     "license": "MIT",
     "minimum-stability": "dev",
