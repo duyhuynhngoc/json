@@ -2,8 +2,13 @@
     "name": "gemuni/json",
     "description": "[\"Json\", \"Json Reader\", \"PHP\"]",
     "type": "git",
+    "repositories": [{
+        "type": "git",
+        "url": "git@github.com:duyhuynhngoc/Json.git",
+        "branche": "master"
+    }],
     "require": {
-        "php": "4+"
+        "php": ">=4.0.0"
     },
     "license": "MIT",
     "authors": [
@@ -11,5 +16,28 @@
             "name": "Duy Huynh",
             "email": "duy.huynhngoc@hotmail.com"
         }
-    ]
+    ],
+    "autoload": {
+        "prs-4": {
+            "Gemuni\\Json": "src"
+        }
+    }
+
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
