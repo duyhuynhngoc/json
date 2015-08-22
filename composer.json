@@ -1,6 +1,7 @@
 {
     "name": "gemuni/json",
     "description": "[\"Json\", \"Json Reader\", \"PHP\"]",
+    "version": "1.0.0",
     "type": "git",
     "repositories": [{
         "type": "git",
