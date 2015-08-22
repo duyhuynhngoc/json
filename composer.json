@@ -12,8 +12,8 @@
         }
     ],
     "autoload": {
-        "prs-4": {
-            "Gemuni\\Json": "src\\"
+        "psr-4": {
+            "Gemuni\\Json": "src"
         }
     }
 
