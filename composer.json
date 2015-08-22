@@ -1,13 +1,7 @@
 {
-    "name": "duyhuynhngoc/json",
+    "name": "gemuni/json",
     "description": "[\"Json\", \"Json Reader\", \"PHP\"]",
-    "version": "1.0.0",
     "type": "git",
-    "repositories": [{
-        "type": "git",
-        "url": "git@github.com:duyhuynhngoc/Json.git",
-        "branche": "master"
-    }],
     "require": {
         "php": ">=4.0.0"
     },
@@ -20,7 +14,7 @@
     ],
     "autoload": {
         "prs-4": {
-            "Gemuni\\Json": "src"
+            "Gemuni\\Json": "src\\"
         }
     }
 
